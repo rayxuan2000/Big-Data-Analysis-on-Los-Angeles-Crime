@@ -10,8 +10,11 @@ Other references:
 
 [Just one click to download data](https://data.lacity.org/api/views/63jg-8b9z/rows.csv?accessType=DOWNLOAD)
 
+OLAP: OLAP, or online analytical processing, is technology for performing high-speed complex queries or multidimensional analysis on large volumes of data in a data warehouse, data lake or other data repository. OLAP is used in business intelligence (BI), decision support, and a variety of business forecasting and reporting applications. 
+
 Summaries about this project:
 - Used crime data from the Los Angeles area from 2010 to 2019 (more than 213,000 lines) as an example, created a data
 analytics workflow from data collection, cleaning, storage and analysis via \textit{\textbf{PySpark}} and \textit{\textbf{SparkSQL}} on \textit{\textbf{Databricks}}.
-- Item 2
-- Item 3
+- Performed \textit{\textbf{online analysis processing (OLAP)}} for large volumes of crime data.
+- \textit{\textbf{Visualized}} the variation of crime over time and space, gained data-driven insights on crime mechanism.
+- Fine-tuned \textit{\textbf{ARIMA model}} to predict the number of crimes in acertain period and \textit{\textbf{cut down MSE by}} 4898.32.
