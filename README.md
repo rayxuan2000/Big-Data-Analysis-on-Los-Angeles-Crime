@@ -15,7 +15,7 @@ The source code file is uploaded in .ipynb format. For better view, please use t
 
 ## Summary
 - Used crime data from the Los Angeles area from 2010 to 2019 (more than 213,000 lines) as an example, created a data
-analytics workflow from data collection, cleaning, storage and analysis via \textit{\textbf{PySpark}} and \textit{\textbf{SparkSQL}} on \textit{\textbf{Databricks}}.
-- Performed \textit{\textbf{online analysis processing (OLAP)}} for large volumes of crime data.
-- \textit{\textbf{Visualized}} the variation of crime over time and space, gained data-driven insights on crime mechanism.
-- Fine-tuned \textit{\textbf{ARIMA model}} to predict the number of crimes in acertain period and \textit{\textbf{cut down MSE by}} 4898.32.
+analytics workflow from data collection, cleaning, storage and analysis via **PySpark** and **SparkSQL**on **Databricks**.
+- Performed **online analysis processing (OLAP)** for large volumes of crime data.
+- **Visualized** the variation of crime over time and space, gained data-driven insights on crime mechanism.
+- Fine-tuned **ARIMA model** to predict the number of crimes in acertain period and **cut down MSE by** 4898.32.
