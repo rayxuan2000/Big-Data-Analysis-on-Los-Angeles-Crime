@@ -9,3 +9,9 @@ Other references:
 [Data source for this project](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data)
 
 [Just one click to download data](https://data.lacity.org/api/views/63jg-8b9z/rows.csv?accessType=DOWNLOAD)
+
+Summaries about this project:
+- Used crime data from the Los Angeles area from 2010 to 2019 (more than 213,000 lines) as an example, created a data
+analytics workflow from data collection, cleaning, storage and analysis via \textit{\textbf{PySpark}} and \textit{\textbf{SparkSQL}} on \textit{\textbf{Databricks}}.
+- Item 2
+- Item 3
